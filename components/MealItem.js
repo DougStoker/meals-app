@@ -7,6 +7,7 @@ import {
 } from 'react-native';
 import {useNavigation} from '@react-navigation/native'
 import MealDetails from './MealDetails'
+import { Ionicons } from '@expo/vector-icons'
 
 function MealItem({
     id,
